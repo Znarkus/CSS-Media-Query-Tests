@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
+	<meta name="description" content="Test and explore CSS media queries and viewport settings." />
 	<title>CSS media query tests</title>
 
 	<? if (isset($_GET['viewport'])): ?>
@@ -119,6 +120,7 @@ only screen and (min-device-height: 1024px) and (orientation: landscape)</code>
 </section>
 
 <footer>
+	Fork on <a href="https://github.com/Znarkus/CSS-Media-Query-Tests">GitHub</a>.
 	Created by the <a href="http://snowfireit.com/">Snowfire</a> team.
 </footer>
 
